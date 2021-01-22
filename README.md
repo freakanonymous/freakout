@@ -1,2 +1,3 @@
 # freakout
-source codes for the "world famous" freakout botnet
+source codes for the freakout botnet
+obfuscated and polmorphic botnet minus exploits
